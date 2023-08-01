@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://IreneTanggh2.github.io/IreneTanggh2/sitemap.xml
+Sitemap: https://IreneTanggh.github.io/IreneTanggh/sitemap.xml
