@@ -173,14 +173,14 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  # projects:
-  #   output: true
-  #   permalink: /projects/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
-projects:
-  enabled: true
-  scrollable: true
-  limit: 5
+# projects:
+#   enabled: true
+#   scrollable: true
+#   limit: 5
 
 announcements:
   enabled: true
