@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Type 2 Diabetes Prediction
+description: The Tradeoff between AI Fairness and Model Accuracy
+img: assets/img/type2.png
+redirect: https://www.medrxiv.org/content/10.1101/2023.05.02.23289405v3
 importance: 3
-category: work
+category: AI
 ---
 
 Every project has a beautiful feature showcase page.

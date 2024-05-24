@@ -2,10 +2,12 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A collection of my previous projects.
 nav: true
-nav_order: 2
-display_categories: [work, fun]
+nav_order: 3
+# display_categories: [Course]
+display_categories: [AI, HCI]
+
 horizontal: false
 ---
 

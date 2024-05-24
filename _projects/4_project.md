@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Pokémon Battle Analytics Visualization System
+description: Have a try! It's pretty fun!
+img: assets/img/Pokemon.png
+importance: 1
+redirect: https://observablehq.com/d/af20a75bb5149079
+category: HCI
 ---
 
 Every project has a beautiful feature showcase page.
