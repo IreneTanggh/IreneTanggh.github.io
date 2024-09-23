@@ -27,6 +27,8 @@ Hello!👋 I am a Computer Science PhD student at the [Sanghani Center for Artif
 
 My research interest lies in the intersection of Visualization, Human-Computer Interaction, and Artificial Intelligence, where I use visual analytics and human-in-the-loop methods to design, build, and evaluate human-AI collaborative systems to enhance the efficiency, trustworthiness, and transparency of AI models. 
 
+<b>I am looking for internship positions for summer 2025. With experience in human-AI collaboration and large language models, I am excited to apply my skills in a dynamic environment. If your organization is seeking a dedicated and passionate intern, I’d love to connect!</b>
+
 <!-- Last summer, I was a visiting PhD student in the [HCIE Group](https://hcie.csail.mit.edu/) at CSAIL, MIT. -->
 
 <!-- With three years in top tech companies, I am a <b>full-stack developer</b> and <b>AI Applied Researcher</b>. My current research lies on <b>Information Visualization</b>, <b>Immersive Analytics</b>, and <b>Human-AI Interaction</b>. 
