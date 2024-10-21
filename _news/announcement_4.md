@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Steering LLM Summarization with Visual Workspaces for Sensemaking" accepted to IEEE NLVIZ Workshop 2024. Please check it here: <a href="https://arxiv.org/abs/2409.17289">link</a>.
+Our paper "<a href="https://arxiv.org/abs/2409.17289">Steering LLM Summarization with Visual Workspaces for Sensemaking</a>" accepted to IEEE NLVIZ Workshop 2024. 
