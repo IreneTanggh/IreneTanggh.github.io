@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Begin my doctoral studies at Virginia Tech!
+Begin my doctoral studies at Virginia Tech.

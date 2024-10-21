@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Passed my PhD qualifier exam!
+Passed my PhD qualifier exam.
