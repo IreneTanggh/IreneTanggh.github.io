@@ -25,7 +25,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hello! 👋 I'm a Computer Science PhD student at [Virginia Tech](https://www.vt.edu/)'s [Sanghani Center for Artificial Intelligence & Data Analytics](https://sanghani.cs.vt.edu/about/), co-advised by Prof. [Chris North](https://people.cs.vt.edu/north/) and [Xuan Wang](https://xuanwang91.github.io/). 
 Before joining Virginia Tech, I spent nearly three years in industry, starting as a full-stack development engineer before advancing to machine learning engineering where I worked on large-scale recommendation systems.
-I hold both B.S. and M.S. degrees from [Wuhan University](https://en.whu.edu.cn/), where I was mentored by Prof. Zhijiang Li and Dr. [Fan Zhang](https://scholar.google.com/citations?user=K3SZuHIAAAAJ&hl=en). During my master's program, I had the valuable opportunity to visit and collaborate with Prof. [Xiu Li](https://scholar.google.com/citations?user=Xrh1OIUAAAAJ&hl=en) at [Tsinghua University](https://www.tsinghua.edu.cn/en/).
+I hold both B.S. and M.S. degrees from [Wuhan University](https://en.whu.edu.cn/), where I was mentored by Prof. Zhijiang Li and Dr. [Fan Zhang](https://scholar.google.com/citations?user=K3SZuHIAAAAJ&hl=en). Throughout my PhD and master's studies, I've had the privilege of collaborating with distinguished researchers from premier institutions including MIT, Georgia Tech, Tsinghua University, City University of Hong Kong, and Adobe Research, among others.
 
 My research explores the intersection of Visualization, Human-Computer Interaction, and Large Language Models, where I develop visual analytics and human-in-the-loop methods to design, build, and evaluate efficient, trustworthy, and transparent human-LLM collaborative systems.
 
