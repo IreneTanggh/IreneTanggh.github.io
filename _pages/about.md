@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: xuxin.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 <!--   address: >
     <p>Room 3214, Gilbert Place</p>
@@ -29,7 +29,7 @@ I hold both B.S. and M.S. degrees from [Wuhan University](https://en.whu.edu.cn/
 
 My research explores the intersection of Visualization, Human-Computer Interaction, and Large Language Models, where I develop visual analytics and human-in-the-loop methods to design, build, and evaluate efficient, trustworthy, and transparent human-LLM collaborative systems.
 
-<b>I am seeking internship opportunities for Summer 2025. With specialized experience in human-AI collaboration and large language models, I'm eager to contribute my expertise in a dynamic environment. If your organization values innovation at the frontier of human-AI interaction, I would be delighted to connect!</b>
+<!-- <b>I am seeking internship opportunities for Summer 2025. With specialized experience in human-AI collaboration and large language models, I'm eager to contribute my expertise in a dynamic environment. If your organization values innovation at the frontier of human-AI interaction, I would be delighted to connect!</b> -->
 
 <!-- Last summer, I was a visiting PhD student in the [HCIE Group](https://hcie.csail.mit.edu/) at CSAIL, MIT. -->
 
