@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: xuxin.jpg
+  image: xuxin2.jpg
   image_circular: false # crops the image to make it circular
 <!--   address: >
     <p>Room 3214, Gilbert Place</p>
