@@ -3,7 +3,7 @@ layout: page
 title: Intelligent Traffic Forecast (Ali Tianchi)
 description: Top 3%
 img: assets/img/ali.png
-importance: 2
+importance: 3
 category: AI
 giscus_comments: true
 ---

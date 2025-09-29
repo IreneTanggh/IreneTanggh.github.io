@@ -4,7 +4,7 @@ title: Type 2 Diabetes Prediction
 description: The Tradeoff between AI Fairness and Model Accuracy
 img: assets/img/type2.png
 redirect: https://www.medrxiv.org/content/10.1101/2023.05.02.23289405v3
-importance: 3
+importance: 1
 category: AI
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Toxicity Classification (Kaggle) 
 description: Bronze medal(Top 10%)
 img: assets/img/jigsaw.png
-importance: 1
+importance: 3
 category: AI
 # related_publications: einstein1956investigations, einstein1950meaning
 ---
