@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-our paper on AI Fairness is officially accepted by IEEE JBHI 2025! Check out our work: <a href="https://europepmc.org/article/ppr/ppr656134">Link</a>
+Our paper on AI Fairness is officially accepted by IEEE JBHI 2025! Check out our work: <a href="https://europepmc.org/article/ppr/ppr656134">Link</a>
 <!-- Our paper about AI Fairness (<a href="https://europepmc.org/article/ppr/ppr656134">Link</a>) is accepted by IEEE JBHI 2025! Congrats to my coauthors! -->
