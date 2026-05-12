@@ -20,7 +20,7 @@ projects: true
 social: false  # includes social icons at the bottom of the page
 ---
 
-(How to pronouce my first name: "<b>Shesing</b>".)
+(How to pronouce my first name: "<b>Sheshin</b>".)
 
 <b>Human-AI Interaction Researcher</b>
 
