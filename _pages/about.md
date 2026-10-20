@@ -30,8 +30,8 @@ Hello! 👋 I'm a Computer Science PhD student at [Virginia Tech](https://www.vt
 
 <b> 👉Explore my latest system, [S-PRISM](https://s-prism.netlify.app/), to see human-AI collaboration in action. Simply click 'Report Generation' from the header, recognize the space, and re-run the generation to experience the system's responsiveness and transparency firsthand. </b>
 
-Before joining Virginia Tech, I spent nearly three years in industry, starting as a full-stack development engineer before advancing to machine learning engineering where I worked on large-scale recommendation systems.
-I hold both B.S. and M.S. degrees from [Wuhan University](https://en.whu.edu.cn/). Throughout my PhD and master's studies, I've had the privilege of collaborating with distinguished researchers from premier institutions including MIT, Georgia Tech, Tsinghua University, City University of Hong Kong, and Adobe Research, among others.
+Before joining Virginia Tech, I spent nearly three years in industry, starting as a full-stack development engineer before advancing to machine learning engineering where I worked on large-scale recommendation systems. I hold both B.Eng. and M.S. degrees from [Wuhan University](https://en.whu.edu.cn/). 
+<!-- Throughout my PhD and master's studies, I've had the privilege of collaborating with distinguished researchers from premier institutions including MIT, Georgia Tech, Tsinghua University, City University of Hong Kong, and Adobe Research, among others. -->
 
 <!-- My research explores the intersection of Visualization, Human-Computer Interaction, and Large Language Models, where I develop visual analytics and human-in-the-loop methods to design, build, and evaluate efficient, trustworthy, and transparent human-LLM collaborative systems. -->
 
