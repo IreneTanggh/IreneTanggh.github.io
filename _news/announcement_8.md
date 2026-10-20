@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on <b>Semantic Prompting</b> framework and agentic <b>S-PRISM</b> system is accepted by ACM AVI 2026! You can explore the system here: <a href="https://s-prism.netlify.app/">Link</a>. The full paper will be available soon.
+Our paper on <b>Semantic Prompting</b> framework and agentic <b>S-PRISM</b> system is accepted by ACM AVI 2026! You can explore the system here: <a href="https://s-prism.netlify.app/">Link</a>. 

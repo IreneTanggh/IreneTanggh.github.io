@@ -16,15 +16,17 @@ profile:
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-projects: true
+projects: false
 social: false  # includes social icons at the bottom of the page
 ---
 
-(How to pronouce my first name: "<b>Sheshin</b>".)
-
 <b>Human-AI Interaction Researcher</b>
 
-Hello! 👋 I'm a Computer Science PhD student at [Virginia Tech](https://www.vt.edu/)'s [Sanghani Center for Artificial Intelligence & Data Analytics](https://sanghani.cs.vt.edu/about/), advised by Prof. [Chris North](https://people.cs.vt.edu/north/). Leveraging three years of industrial experience in full-stack and machine learning engineering, I design and implement human-AI collaborative systems using state-of-the-art LLM and agentic frameworks. I bridge the gap between AI reasoning and human oversight by architecting intuitive visual interfaces that prioritize system <b>transparency</b>, <b>generalizability</b>, and <b>operational efficiency</b>. My unique background in large-scale recommendation systems allows me to transition <b>abstract cognitive frameworks</b> into <b>robust, production-ready solutions</b>. 
+(How to pronouce my first name: "<b>Sheshin</b>".)
+
+
+
+Hello! 👋 I'm a Computer Science PhD student at [Virginia Tech](https://www.vt.edu/)'s [Sanghani Center for Artificial Intelligence & Data Analytics](https://sanghani.cs.vt.edu/about/), advised by Prof. [Chris North](https://people.cs.vt.edu/north/). Leveraging three years of industrial experience in full-stack and machine learning engineering, I design and implement human-AI collaborative systems using state-of-the-art LLM and agentic frameworks. I bridge the gap between AI reasoning and human oversight by architecting intuitive visual interfaces that prioritize system <b>transparency</b>, <b>generalizability</b>, and <b>operational efficiency</b>. My unique background in large-scale recommendation systems allows me to transition <b>abstract cognitive frameworks</b> into <b>reliable, real-world applications</b>. 
 
 <b> 👉Explore my latest system, [S-PRISM](https://s-prism.netlify.app/), to see human-AI collaboration in action. Simply click 'Report Generation' from the header, recognize the space, and re-run the generation to experience the system's responsiveness and transparency firsthand. </b>
 
@@ -33,7 +35,7 @@ I hold both B.S. and M.S. degrees from [Wuhan University](https://en.whu.edu.cn/
 
 <!-- My research explores the intersection of Visualization, Human-Computer Interaction, and Large Language Models, where I develop visual analytics and human-in-the-loop methods to design, build, and evaluate efficient, trustworthy, and transparent human-LLM collaborative systems. -->
 
-<b>I am actively seeking a Summer 2026 internship where I can apply my expertise in LLM agentic frameworks and human-AI alignment. I am eager to contribute to a research-driven team tackling complex challenges at the frontier of human-AI interaction. If your organization is innovating in this space, I would be delighted to connect and discuss how my skills can bring value.</b>
+<!-- <b>I am actively seeking a Summer 2026 internship where I can apply my expertise in LLM agentic frameworks and human-AI alignment. I am eager to contribute to a research-driven team tackling complex challenges at the frontier of human-AI interaction. If your organization is innovating in this space, I would be delighted to connect and discuss how my skills can bring value.</b> -->
 
 <!-- Last summer, I was a visiting PhD student in the [HCIE Group](https://hcie.csail.mit.edu/) at CSAIL, MIT. -->
 

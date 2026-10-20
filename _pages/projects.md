@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: A collection of my previous projects.
-nav: true
+nav: false
 nav_order: 5
 # display_categories: [Course]
 display_categories: [AI, HCI]
