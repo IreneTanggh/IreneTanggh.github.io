@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper <a href="https://imprinto.github.io/">Imprinto</a> is accepted by CHI 2025!
+Our paper <a href="https://imprinto.github.io/">Imprinto</a> is accepted by CHI 2025 🎉!
