@@ -185,10 +185,17 @@
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
+          {%- if entry.demo %}
+            <a href="{{ entry.demo }}" class="btn btn-sm z-depth-0" role="button">Demo</a>
+          {%- endif %}
+          {%- if entry.video %}
+            <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button">Video</a>
+          {%- endif %}
           </div>
           {% if site.badges %}
           <div class="badges">
             {%- if site.badges.altmetric_badge %}
+              {%- unless entry.altmetric == false or entry.altmetric == "false" %}
             <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right"
               {% if entry.eprint %}
                 data-arxiv-id="{{ entry.eprint }}"
@@ -202,17 +209,20 @@
                 data-isbn="{{ entry.isbn }}"
               {% endif %}
               ></span>
+              {%- endunless %}
             {%- endif %}
             {%- if site.badges.dimensions_badge %}
+              {%- unless entry.dimensions == false or entry.dimensions == "false" %}
               <span class="__dimensions_badge_embed__"
               {% if entry.doi %}
                 data-doi="{{ entry.doi }}"
-              {% else if entry.pmid %}
+              {% elsif entry.pmid %}
                 data-pmid="{{ entry.pmid }}"
               {% else %}
                 data-id="{{ entry.dimensions }}"
               {% endif %}
               data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+              {%- endunless %}
             {%- endif %}
           </div>
           {%- endif %}
